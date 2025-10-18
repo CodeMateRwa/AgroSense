@@ -1,4 +1,3 @@
-# AgroSense
 # AgroSense – Smart Farm Monitoring System
 
 AgroSense is an IoT-powered smart farm monitoring system designed to help farmers track key environmental conditions in real-time, including soil moisture, temperature, humidity, and sunlight. 
