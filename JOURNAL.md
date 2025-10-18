@@ -18,6 +18,7 @@ Today, I set up the AgroSense project repository on CodeMateRa GitHub. I created
 
 Everything went smoothly; setting up the repo and writing the README helped clarify the project goals and the next steps. Next, I will work on uploading hardware code and initial dashboard files.
 
-![Concept Sketch](banner.png)
+![banner.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjk4OSwicHVyIjoiYmxvYl9pZCJ9fQ==--a42a13ce23bffb60e6b56c974a7a195fe288e4ba/banner.jpg)
+
   
 
